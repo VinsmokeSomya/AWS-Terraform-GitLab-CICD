@@ -309,5 +309,4 @@ destroy:
 
   * Cleans up the environment after the job is completed.
 
-```
-![Follow Me](https://imgur.com/2j7GSPs.png)
+---
